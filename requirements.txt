@@ -3,3 +3,6 @@ nltk
 scikit-learn
 nbstripout
 ipykernel
+textblob
+deep-translator
+langid
