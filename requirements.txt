@@ -6,3 +6,4 @@ ipykernel
 textblob
 deep-translator
 langid
+matplotlib.pyplot
