@@ -1,0 +1,56 @@
+review_rating,review_text,review_questions_Meal type,polarity,sentiment_model,sentiment_true,accuracy
+5,Good ramen with tasty broth. The spiciness is on point. Service was friendly and the facility was clean.,Lunch,0.48055555555555557,positive,positive,True
+5,Seriously good ramen. Had the house sake and pork miso. Delicious.,,0.85,positive,positive,True
+5,"I will definitely get back here for more
+The Sake Combo with Spicy Garlic Broth is perfect match.
+The ramen has a rich broth and spicy as i ordered the Spicy Garlic Pork Ramen. Paris with the combo with hot sake is top notch.
+The staffs are friendly, with their cultural greetings.
+Their focus is the ramen menus only, and that is what i like so they concentrate more focus on the ramen taste.
+Only just they have a quite limited space, but that is fine for me.",Lunch,0.28180272108843535,positive,positive,True
+2,"the service was a bit slow, we waited 30 mins for our two bowls. i’ve visited this location twice but the broth is not as flavourful as i’d like it to be. for the price i also think you can get much better ramen in the area (probably for cheaper too). the space is also really cramped, you can barely move. the staff are really nice though and the bathroom has mouthwash which is a nice touch 🙂",,0.27499999999999997,positive,negative,False
+1,"Never had that bad service ever.
+Especially the red hair girl Japanese server.
+There are much more Ramen choice in Vancouver I would rather go Denbo.
+I don’t know where the high rate comes from.",Dinner,-0.00666666666666664,neutral,negative,False
+4,"Very clean and cozy place! The ramen was delicious, the staff were friendly, and the prices were great.",Lunch,0.4803333333333334,positive,positive,True
+5,Really good ramen! I feel the variety is good and the quality is always very consistent. All the staff are very friendly. Highly recommend!,Dinner,0.5175000000000001,positive,positive,True
+5,"국물이 땡겨서 라멘을 먹으러 감.
+spicy garlic pork ramen 난 맵찔이지만 적당히 매워서 맛있게 잘먹음. 사실 매운 거보다 짠 게 더 커서 맵다고 느껴지지 않았음.",Dinner,0.5,positive,positive,True
+1,I don’t get the hype. Terrible service. As you can see the pork was poorly cooked (didn’t even try to eat it). And the tables are so close that when people slide by to sit down their whole butt gets all over your table. But maybe that’s your thing.,Lunch,-0.33888888888888885,negative,negative,True
+5,Ótima e saborosa experiência…super indico,Lunch,0.48000000000000004,positive,positive,True
+5,"Nothing to complain! Food was good, service and atmosphere were great.",Dinner,0.75,positive,positive,True
+5,Had the beef ramen. Good chain. Happy to try other places in the neighborhood also happy to drop in again.,Lunch,0.54375,positive,positive,True
+5,"It was freezing today — the kind of weather that makes you feel ramen was invented just for this moment. So I finally went to try this shop that’s been around for about a year.
+
+I saw they had a combo with my all-time favorite, Coke. Didn’t even look at the price — just went “yes please.” Big mistake. The Coke came in a cup, not a can, not a fancy glass bottle — just… a cup. But hey, it still tasted like Coke, so fine.
+
+Then came the gyoza — fried but somehow not oily. Crispy, tasty, and honestly the best kind of surprise. You can even pick pork or veggie filling. There was some mysterious sauce drizzled on top — looked suspicious, tasted like nothing, and I still have no clue what it was. But whatever, the gyoza was great, mystery sauce forgiven.
+
+For ramen, I went thick noodles (because who eats thin noodles on a cold day?) and picked the spicy garlic flavor. Man, that was good. The broth was rich, the noodles chewy, and the char siu had that perfect fire-kissed smell — not too burnt, just enough to make you feel like you’re at a BBQ in ramen form.
+
+Everything was amazing… until the bill came. Add 15% tip, and boom — over thirty bucks. For lunch.  That’s a bit steep for a regular weekday lunch.",Lunch,0.3048245614035087,positive,positive,True
+5,Awesome! Absolutely recommended 😋,Lunch,0.6,positive,positive,True
+4,＼(￣０￣)／ fattest noodle 🍜,,0.0,neutral,positive,False
+4,"Great service!! The beef miso was not 100% my taste, but my friends really liked their food.",Lunch,0.8,positive,positive,True
+3,"We came to this restaurant after attending a hockey game, as it’s conveniently located nearby. The location is great, and overall, the food was quite good. We decided to order the combo meal, which turned out to be a good value for the price. In addition to that, we also ordered the spicy garlic pork dish. However, we were disappointed to find that it did not come with the egg and seaweed as shown in the photo on the menu. The image was quite misleading and gave us the wrong impression of what to expect.
+
+When we brought this up with the female server, she was very dismissive and rude. She didn't take the time to explain the issue or provide any clarification. We also asked a male staff member about the star symbol that appeared next to the item on the menu, hoping for some insight. Unfortunately, he had no idea what it meant and wasn’t able to offer any explanation either.
+
+While we did enjoy the food itself, the service was extremely disappointing. The staff, especially the lady who served us, were unhelpful and lacked basic customer service skills. Because of the poor service experience, we’ve decided that we will not be returning to this location in the future.",Dinner,-0.007499999999999995,neutral,neutral,True
+5,Great ramen at a really good price point,,0.75,positive,positive,True
+5,"This is the most delicious ramen I’ve ever had! 🍜I absolutely love your place — the food, the atmosphere, and your amazing staff. Arigato! 💛",Lunch,0.6875,positive,positive,True
+5,Great taste and service. I'm going to visit again.,,0.8,positive,positive,True
+4,"Kinton is solid place to get ramen. I got the sweet and spicy ramen with ground meat for $19.99.
+It was delicious. Not necessarily authentic, but very tasty nonetheless. Portions are great.
+If you are in the area and looking to get ramen, check Kinton out. 4/5 for me.",Dinner,0.35000000000000003,positive,positive,True
+5,"Based on a personal recommendation from my friend, we first visited this eatery yesterday and oh boy, it did not disappoint!
+I ordered pork ramen, and it was one of the best I had tasted in decades!
+Gyoza, on the side, waa also very good!",Lunch,0.578125,positive,positive,True
+5,"It was great, quick and tasty",,0.5666666666666667,positive,positive,True
+3,"When we first came here months ago the Pork original was so good so we came back today. Ordered the same thing and noticed they changed the broth. The broth was so bland that almost tasteless. Maybe some customers complained it’s too salty but you’re not supposed to drink all ramen soup.
+The chashu was just bland pork. It’s an insult for chashu to call it chashu.
+Good service so very sad they changed their soup!!!",Lunch,-0.018939393939393954,neutral,neutral,True
+4,"This place is a good option if you’re craving a quick ramen. However, the flavor is quite bland.",Lunch,0.28888888888888886,positive,positive,True
+5,"Kinton has always been my go-to for Ramen 🍜. It was my first time in Vancouver, and I had to try Ramen because of the rainy weather( Obvious in Vancouver). I went to this place and was not disappointed. It’s very good! Had to wait for a bit as usual, but it’s worth the wait. Definitely recommend! 👍",Dinner,0.2392857142857143,positive,positive,True
+3,"Surprised how many good reviews this place has. We got a pork original and the broth was quite bland. The chashu didn't have that BBQ/grilled flavor/taste, it was fine but nothing special. Service was fine but slow, not enough servers for how busy it was at 11:30pm. Price was good. Good place for a late night ramen when everything else is closed but I wouldn't come for dinner.",Other,0.23325396825396824,positive,neutral,False
+5,Pork original 很美味，湯頭不是很鹹的那種，天氣冷可以喝熱熱的湯很幸福。,,0.375,positive,positive,True
